@@ -1,0 +1,2 @@
+Essas informações nos ajudará a rastrear mudanças no sistema.
+O sistema parte de um arquivo principal denominado demo-default.html.
